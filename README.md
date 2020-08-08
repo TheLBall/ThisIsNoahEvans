@@ -9,10 +9,10 @@ I'm currently learning Swift, and have a good understanding of Python and HTML.
 ## What am I working on now?
 **Currently, I'm working on...**
 * [What's Cooking](https://velocityapps.tech/whatscooking) - an app to help you decide what to eat
-* IdeaPacket - more info soon...
+* More *secret* things at [Velocity Apps](https://velocityapps.tech)
 
 ## Want to contact me?
-[Twitter](https://twitter.com/thisisnoahevans) is probably the best way to contact me, but you can also send me an [email](mailto:github@itsnoahevans.co.uk).
+I'm taking a break from the internet so won't be responding to commnications on social media or via emails (unless I contact you first). I'm doing fine, and hope to be back soon. Stay well.
 
 ## 
 ![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisnoahevans)
