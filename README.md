@@ -4,7 +4,7 @@
 ## What do I do?
 Way too many things.
 I spend my free time making iOS and macOS apps, as well as Python programs. I seem to have a reputation of being the *'Twitter Bot Man'*, as I used to run many Twitter bots.
-I'm currently learning Swift, and have a good understanding of Python and HTML.
+My main language is Swift, plus I have a good understanding of Python and HTML.
 
 ## What am I working on now?
 **Currently, I'm working on...**
