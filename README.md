@@ -12,7 +12,7 @@ My main language is Swift, plus I have a good understanding of Python and HTML.
 * More *secret* things at [Velocity Apps](https://velocityapps.tech)
 
 ## Want to contact me?
-I'm taking a break from the internet so won't be responding to commnications on social media or via emails (unless I contact you first). I'm doing fine, and hope to be back soon. Stay well.
+I'm taking a break from the internet so won't be responding to commnications on social media or via emails (unless I contact you first). I'm well, and hope to be back soon. I hope everyone's doing good.
 
 ## 
 ![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisnoahevans)
