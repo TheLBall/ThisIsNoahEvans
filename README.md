@@ -11,7 +11,7 @@
 
 - 🔮 My 2020 goal is **to release two more apps on the App Store**
 
-- 👨‍💻 All of my projects are available on my profile [https://gh.itsnoahevans.co.uk/?tab=repositories](https://gh.itsnoahevans.co.uk/?tab=repositories)
+- 👨‍💻 All of my projects are available on my [profile](https://gh.itsnoahevans.co.uk/?tab=repositories)
 
 - 📝 I write Apple Event news for [Radar Report](https://www.jdtekk.tech/)
 
