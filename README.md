@@ -1,21 +1,30 @@
-# Hello!
-## I'm Noah Evans, a developer and the Founder of [Velocity Apps](https://velocityapps.tech).
+<h1 align="center">Hey 👋, I'm Noah</h1>
+<h3 align="center">A developer from England, working with mainly Swift and Python</h3>
 
-## What do I do?
-Way too many things.
-I spend my free time making iOS and macOS apps, as well as Python programs. I seem to have a reputation of being the *'Twitter Bot Man'*, as I used to run many Twitter bots.
-My main language is Swift, plus I have a good understanding of Python and HTML.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisnoahevans" alt="thisisnoahevans" /> </p>
 
-## What am I working on now?
-**Currently, I'm working on...**
-* [What's Cooking](https://velocityapps.tech/whatscooking) - an app to help you decide what to eat
-* More *secret* things at [Velocity Apps](https://velocityapps.tech)
+- 🔭 I’m currently working on [What's Cooking](velocityapps.tech/whatscooking)
 
-## Want to contact me?
-I'm taking a break from the internet so won't be responding to commnications on social media or via emails (unless I contact you first). I'm well, and hope to be back soon. I hope everyone's doing good.
+- 🌱 I’m currently working with **Swift and Python**
 
-## 
-![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisnoahevans)
+- ⏰ I’ll soon be working on [Mac Installers for macOS](gh.itsnoahevans.co.uk/MacInstallersMacApp)
 
+- 🔮 My 2020 goal is **to release two more apps on the App Store**
 
-[![Twitter followers](https://img.shields.io/twitter/follow/ThisIsNoahEvans?label=Followers&style=social)](https://twitter.com/thisisnoahevans) [![GitHub followers](https://img.shields.io/github/followers/thisisnoahevans?label=Followers&style=social)](https://github.com/thisisnoahevans/)
+- 👨‍💻 All of my projects are available on my profile [https://gh.itsnoahevans.co.uk/?tab=repositories](https://gh.itsnoahevans.co.uk/?tab=repositories)
+
+- 📝 I write Apple Event news for [Radar Report](https://www.jdtekk.tech/)
+
+- 📫 Reach me via **[Twitter](https://twitter.com/thisisnoahevans)** or **[email](github@itsnoahevans.co.uk)**
+
+- ⚡ Fun fact: **I hate AppleScript.**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnoahevans&layout=compact&hide=html" alt="thisisnoahevans" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisnoahevans&show_icons=true" alt="thisisnoahevans" /></p>
+
+<p align="center">
+<a href="https://twitter.com/thisisnoahevans" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thisisnoahevans" height="30" width="30" /></a>
+<a href="https://instagram.com/thisisnoahevans" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thisisnoahevans" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/thisisnoahevans" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="thisisnoahevans" height="30" width="30" /></a>
+</p>
