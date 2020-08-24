@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisnoahevans" alt="thisisnoahevans" /> </p>
 
-- 🔭 I’m currently working on [What's Cooking](velocityapps.tech/whatscooking)
+- 🔭 I’m currently working on [What's Cooking](https://velocityapps.tech/whatscooking)
 
 - 🌱 I’m currently working with **Swift and Python**
 
-- ⏰ I’ll soon be working on [Mac Installers for macOS](gh.itsnoahevans.co.uk/MacInstallersMacApp)
+- ⏰ I’ll soon be working on [Mac Installers for macOS](https://github.com/ThisIsNoahEvans/MacInstallersMacApp)
 
 - 🔮 My 2020 goal is **to release two more apps on the App Store**
 
-- 👨‍💻 All of my projects are available on my [profile](https://gh.itsnoahevans.co.uk/?tab=repositories)
+- 👨‍💻 All of my projects are available on my [profile](https://github.com/ThisIsNoahEvans?tab=repositories)
 
 - 📝 I write Apple Event news for [Radar Report](https://www.jdtekk.tech/)
 
-- 📫 Reach me via **[Twitter](https://twitter.com/thisisnoahevans)** or **[email](github@itsnoahevans.co.uk)**
+- 📫 Reach me via **[Twitter](https://twitter.com/thisisnoahevans)** or **[email](mailto:github@itsnoahevans.co.uk)**
 
 - ⚡ Fun fact: **I hate AppleScript.**
 
