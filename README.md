@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisnoahevans" alt="thisisnoahevans" /> </p>
 
+- 👨🏻‍💻 Founder of [Velocity Apps](https://velocityapps.tech)
+
 - 🔭 I’m currently working on [What's Cooking](https://velocityapps.tech/whatscooking)
 
 - 🌱 I’m currently working with **Swift and Python**
