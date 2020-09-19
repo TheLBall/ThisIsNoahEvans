@@ -10,7 +10,7 @@
 
 - 🌱 I work with **Swift and Python**
 
-- ⏰ My next big project [Mac Installers for macOS](https://github.com/ThisIsNoahEvans/MacInstallersMacApp)
+- ⏰ My next big project will be [Mac Installers for macOS](https://github.com/ThisIsNoahEvans/MacInstallersMacApp)
 
 - 🔮 My 2020 goal is **to release two more apps on the App Store**
 
