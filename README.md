@@ -1,23 +1,24 @@
-<h1 align="center">Hey 👋, I'm Noah</h1>
-<h3 align="center">A developer from England, working with mainly Swift and Python</h3>
+<img align="right" height=150 width=150 src="https://cdn.itsnoahevans.co.uk/content/memoji-round.png" /> </p>
+<h1 align="left">Hey 👋, I'm Noah</h1>
+<h3 align="left">A developer from England, working with mainly Swift and Python</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisnoahevans" alt="thisisnoahevans" /> </p>
 
-- 👨🏻‍💻 Founder of [Velocity Apps](https://velocityapps.tech)
 
-- 🔭 I’m currently working on [What's Cooking](https://velocityapps.tech/whatscooking)
+- 🔭 I’m currently working on [What's Cooking](https://github.com/thisisnoahevans/whatscooking)
 
-- 🌱 I’m currently working with **Swift and Python**
+- 🌱 I work with **Swift and Python**
 
-- ⏰ I’ll soon be working on [Mac Installers for macOS](https://github.com/ThisIsNoahEvans/MacInstallersMacApp)
+- ⏰ My next big project [Mac Installers for macOS](https://github.com/ThisIsNoahEvans/MacInstallersMacApp)
 
 - 🔮 My 2020 goal is **to release two more apps on the App Store**
 
-- 👨‍💻 All of my projects are available on my [profile](https://github.com/ThisIsNoahEvans?tab=repositories)
-
-- 📝 I write Apple Event news for [Radar Report](https://www.jdtekk.tech/)
+- 👨‍💻 Most of my projects are available on my [profile](https://github.com/ThisIsNoahEvans?tab=repositories)
 
 - 📫 Reach me via **[Twitter](https://twitter.com/thisisnoahevans)** or **[email](mailto:github@itsnoahevans.co.uk)**
+
+- ⌨️  Check out my [website](https://itsnoahevans.co.uk) for more
 
 - ⚡ Fun fact: **I hate AppleScript.**
 
