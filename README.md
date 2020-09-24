@@ -1,6 +1,6 @@
 <img align="right" height=150 width=150 src="https://cdn.itsnoahevans.co.uk/content/memoji-round.png" /> </p>
 <h1 align="left">Hey 👋, I'm Noah</h1>
-<h3 align="left">A developer from England, working with mainly Swift and Python</h3>
+<h3 align="left">A developer from England, working with Swift and Python</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisnoahevans" alt="thisisnoahevans" /> </p>
