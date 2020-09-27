@@ -18,9 +18,8 @@
 
 - ⚡ Fun fact: **I hate AppleScript.**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnoahevans&layout=compact&hide=html" alt="thisisnoahevans" /></p>
 
-[![Noah's stats](https://github-readme-stats.vercel.app/api?username=thisisnoahevans)]
+[![Noah's stats](https://github-readme-stats.vercel.app/api?username=thisisnoahevans&count_private=true&show_icons=true&theme=dark)]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisnoahevans" alt="thisisnoahevans" /> </p>
 
 
