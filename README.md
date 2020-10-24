@@ -19,7 +19,7 @@
 - ⚡ Fun fact: **I hate AppleScript.**
 
 
-[![Noah's stats](https://github-readme-stats.vercel.app/api?username=thisisnoahevans&count_private=true&show_icons=true&theme=dark)]
+![Noah's stats](https://github-readme-stats.vercel.app/api?username=thisisnoahevans&count_private=true&show_icons=true&theme=dark)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisnoahevans" alt="thisisnoahevans" /> </p>
 
 
