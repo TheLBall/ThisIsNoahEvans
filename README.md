@@ -6,8 +6,6 @@
 
 - 🌱 I work with **Swift and Python**
 
-- ⏰ My next big project will be [Mac Installers for macOS](https://github.com/ThisIsNoahEvans/MacInstallersMacApp)
-
 - 🔮 My 2021 goal is **to release two more apps on the App Store**
 
 - 👨‍💻 Most of my projects are available on my [profile](https://github.com/ThisIsNoahEvans?tab=repositories)
